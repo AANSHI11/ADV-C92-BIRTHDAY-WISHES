@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+border-width: 10px;
+background-color: pink;
+border-style: ridge;
+border-color: cyan;  
+}
+h1 {
+    font-family: Arial, "Times New Roman";
+    font-size: 5px;
+    text-decoration: underline;
+   font-style: italic;
+   color: cyan;
+}
+
+
